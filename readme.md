@@ -1,3 +1,5 @@
+# Valgrind Exercise
+
 ## Standard install via command-line
 ```
 git clone https://github.com/Eashwar-S/Valgrind-Exercise.git
