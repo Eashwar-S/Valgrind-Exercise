@@ -7,14 +7,13 @@ cd <path to repository>
 
 ## Build and Running Valgrind
 ```
-
 mkdir build
 cd build
 cmake ..
 make
 valgrind --leak-check=full ./app/shell-app
 
-# KCachegrind Memory Profiler Output via Command line
+## KCachegrind Memory Profiler Output via Command line
 ```
 valgrind --tool=callgrind ./app/shell-app
 
