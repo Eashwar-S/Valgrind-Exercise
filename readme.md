@@ -1,6 +1,6 @@
 # Valgrind Exercise
-[![Build Status](https://travis-ci.org/Eashwar-S/Valgrind-Exercise.svg?branch=master)](https://travis-ci.org/Eashwar-S/Valgrind-Exercise)
-[![Coverage Status](https://coveralls.io/repos/github/Eashwar-S/Valgrind-Exercise/badge.svg?branch=master)](https://coveralls.io/github/Eashwar-S/Valgrind-Exercise?branch=master)
+[![Build Status](https://travis-ci.org/Eashwar-S/Valgrind-Exercise.svg?branch=valgrind_exercise)](https://travis-ci.org/Eashwar-S/Valgrind-Exercise)
+[![Coverage Status](https://coveralls.io/repos/github/Eashwar-S/Valgrind-Exercise/badge.svg?branch=valgrind_exercise)](https://coveralls.io/github/Eashwar-S/Valgrind-Exercise?branch=valgrind_exercise)
 ---
 
 ## Standard install via command-line
