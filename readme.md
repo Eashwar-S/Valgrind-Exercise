@@ -1,8 +1,3 @@
-# Valgrind Exercise
-[![Build Status](https://travis-ci.org/Eashwar-S/Valgrind-Exercise.svg?branch=valgrind_exercise)](https://travis-ci.org/Eashwar-S/Valgrind-Exercise)
-[![Coverage Status](https://coveralls.io/repos/github/Eashwar-S/Valgrind-Exercise/badge.svg?branch=valgrind_exercise)](https://coveralls.io/github/Eashwar-S/Valgrind-Exercise?branch=valgrind_exercise)
----
-
 ## Standard install via command-line
 ```
 git clone https://github.com/Eashwar-S/Valgrind-Exercise.git
