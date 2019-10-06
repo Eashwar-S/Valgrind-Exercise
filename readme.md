@@ -5,7 +5,7 @@
 
 ## Standard install via command-line
 ```
-git clone https://github.com/Eashwar-S/Valgrind_Exercise.git
+git clone https://github.com/Eashwar-S/Valgrind-Exercise.git
 cd <path to repository>
 
 ## Checkout of master branch and go to valgrind_exercise branch
